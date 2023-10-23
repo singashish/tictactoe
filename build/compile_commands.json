@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/GitHub/TicTacToe/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/TicTacToe.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\TicTacToe.dir\\src\\main.cpp.obj -c E:\\GitHub\\TicTacToe\\src\\main.cpp",
+  "file": "E:/GitHub/TicTacToe/src/main.cpp",
+  "output": "CMakeFiles/TicTacToe.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/GitHub/TicTacToe/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/TicTacToe.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\TicTacToe.dir\\src\\game.cpp.obj -c E:\\GitHub\\TicTacToe\\src\\game.cpp",
+  "file": "E:/GitHub/TicTacToe/src/game.cpp",
+  "output": "CMakeFiles/TicTacToe.dir/src/game.cpp.obj"
+},
+{
+  "directory": "E:/GitHub/TicTacToe/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/TicTacToe.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\TicTacToe.dir\\src\\board.cpp.obj -c E:\\GitHub\\TicTacToe\\src\\board.cpp",
+  "file": "E:/GitHub/TicTacToe/src/board.cpp",
+  "output": "CMakeFiles/TicTacToe.dir/src/board.cpp.obj"
+}
+]
